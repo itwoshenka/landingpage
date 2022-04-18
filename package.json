@@ -1,0 +1,18 @@
+{
+  "name": "latoken-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Latoken Landing"
+  },
+  "keywords": [
+    "Landing"
+  ],
+  "author": "itwoshenka",
+  "license": "ISC"
+}
